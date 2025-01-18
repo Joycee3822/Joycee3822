@@ -1,7 +1,7 @@
 # 👋 Hello! I am Okon, Joy Edidiong
 
-### 🧬 Background: Anatomist | MSc in view in Developmental Anatomy  
-### 📊 Aspiring Data Analyst in Healthcare  
+## 🧬 Background: Anatomist | MSc in view in Public Health  
+### 📊 Aspiring public Health Data Analyst  
 
 I'm an anatomist with a strong foundation in human anatomy, currently diving into the world of data analysis to bridge healthcare and data science. My goal is to leverage data-driven insights to improve healthcare delivery and inform decision-making in medical research.
 
